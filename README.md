@@ -4,7 +4,7 @@
 I am a freshman Computer Science student at Babes Bolyai University aspiring to be a bachelor`s graduate and improving my code developer skills
 
 Programming languages that I know so far:
-  Python \n
+  Python 
   C/C++
   C#
   SQL
