@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any big project
 - 🤔 I’m looking for help with my personal projects
 - 💬 Ask me Anything
-- 📫 How to reach me: @iliedr19 on Instagram, Twitter, LinkedIn
+- 📫 How to reach me: @iliedr19 on Instagram, Twitter or Ilie-Daniel Rus on LinkedIn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: there are no fun facts about me, I am always serious
 -->
