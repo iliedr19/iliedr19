@@ -1,12 +1,18 @@
-### Here is what I am spending my time on, trying to become one of Romania`s best code developers 👋
+### Hi. this is Ilie Daniel Rus`s Github account 👋
 
 
-- 🔭 I’m currently working on improving my C and Python skills
-- 🌱 I’m currently learning anything related to CS
-- 👯 I’m looking to collaborate on any big project
-- 🤔 I’m looking for help with my personal projects
-- 💬 Ask me Anything
-- 📫 How to reach me: @iliedr19 on Instagram, Twitter or Ilie-Daniel Rus on LinkedIn
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: there are no fun facts about me, I am always serious
--->
+I am a freshman Computer Science student at Babes Bolyai University aspiring to be a bachelor`s graduate and improving my code developer skills/
+
+Programming languages that I know so far:
+->Python
+->C/C++
+->C#
+->SQL
+->HTML
+->CSS
+->JavaScript
+
+Projects that I`ve been working on:
+->      -my university work
+->      -one of my personal projects, 
+->      -another personal project, 
