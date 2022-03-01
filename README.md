@@ -1,10 +1,10 @@
 ### Hi. this is Ilie Daniel Rus`s Github account 👋
 
 
-I am a freshman Computer Science student at Babes Bolyai University aspiring to be a bachelor`s graduate and improving my code developer skills/
+I am a freshman Computer Science student at Babes Bolyai University aspiring to be a bachelor`s graduate and improving my code developer skills
 
 Programming languages that I know so far:
-  Python
+  Python \n
   C/C++
   C#
   SQL
